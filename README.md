@@ -2,6 +2,12 @@
 Nama : Mohamad Ariel Saputra D Loi, 2409116087
 
 
+FLOWCHART
+
+![FLOWCHART MINPRO2](https://github.com/user-attachments/assets/8c36c79e-635a-4910-b392-d85b889e8f75)
+
+
+
 
 PENJELASAN MINI PROJECT KEDUA
 
